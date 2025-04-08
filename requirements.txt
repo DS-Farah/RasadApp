@@ -1,5 +1,6 @@
-ultralytics
-opencv-python
 streamlit
-Pillow
-
+opencv-python
+ultralytics
+pillow
+numpy
+torch
